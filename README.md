@@ -2,6 +2,4 @@
 Board for creating and solving problems  
   
 Установка дополнений
-```
-node install
-```
+:radio_button:⚙```node install```
